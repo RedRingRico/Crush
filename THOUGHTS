@@ -1,0 +1,22 @@
+The purpose of this text document is to act as a starting point.
+
+Engine - This isn't a great term to use, but there will be a kind of framework
+in place to manage resources (memory, input devices, things like that)
+
+Editor - Windows-only, this will be for blocking out the level geometry and
+importing assets for levels
+
+Scripting - If any scripting occurs, it will be a simple custom scripting
+language
+
+The point - I guess I want to do something for the Xbox, so I'm doing this.
+The Windows build is not really for me but for others to see.
+
+Debugging tools - Simple RPC for issuing debugging commands and in-game
+visualisations for memory usage, performance, etc.
+
+Artificial intelligence - AI will be very simple, no complicated tactical,
+strategic thinking
+
+Physics - Simple physics; rag dolls and moveable crates
+
